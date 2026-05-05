@@ -1,5 +1,6 @@
 # 兆能ZN-M2 openwrt 无wifi 有USB 弱电箱专用
 自用款固件 弱电箱专用 想用passwall 推荐内存512M以上 内核版本 4.4.60
+-OC为clash版本，无后缀为PSW，均带gecoosac
 
 不包含wifi,集成了少量自己用的上的软件,硬改后支持USB。
 
